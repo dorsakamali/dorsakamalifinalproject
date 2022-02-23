@@ -1,0 +1,31 @@
+.grid{
+
+width: 20%;
+float: left;
+border: 1.5px solid darkGray;
+background-color: rgb(204, 207, 207) ;
+border-radius:10px;
+font-family: 'Times New Roman';
+color:(32, 28, 58);
+height: 440px;
+position: relative;
+left: 85px;
+/* margin-top : 100px; */
+
+/* instead of margin */
+
+
+/*  */
+box-shadow: 8px 8px 12px gray;
+}
+/* margin padding clockwise-> from top to down */
+.grid img{
+ width: 100%; 
+/* width: auto; */
+height: auto;
+border-radius:10px;
+}
+
+body{
+ background-color:darkslategray;   
+}

@@ -1,0 +1,80 @@
+[14-Feb-2022 16:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:27
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 27
+[14-Feb-2022 16:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:27
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 27
+[14-Feb-2022 17:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:27
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 27
+[14-Feb-2022 17:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:27
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 27
+[14-Feb-2022 17:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:27
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 27
+[14-Feb-2022 17:05:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:09:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:09:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:16:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
+[14-Feb-2022 17:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Sina\dorsakamaliphp\models\Movie.php:28
+Stack trace:
+#0 C:\Users\Sina\dorsakamaliphp\api\movie\read.php(17): Movie->read()
+#1 {main}
+  thrown in C:\Users\Sina\dorsakamaliphp\models\Movie.php on line 28
